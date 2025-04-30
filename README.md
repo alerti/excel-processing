@@ -129,7 +129,13 @@ excel-processing/
 └── generate-test-report.sh
 ```
 
-## Setup and Installation
+## Clone the repo
+
+First Clone the repository:
+```bash
+git clone https://github.com/alerti/excel-processing.git
+cd excel-processing
+```
 
 ### Environment Setup
 
