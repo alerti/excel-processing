@@ -1,10 +1,10 @@
 # Excel Processing Application
 
-A Spring Boot application that processes Excel files for grading based on specific business rules.
+A Spring Boot application that processes Excel files for grading based on specific rules.
 
 ## Overview
 
-This application provides an API endpoint for processing and comparing Excel files according to specific business rules. It supports both value-based and formula-based grading criteria.
+This application provides an API endpoint for processing and comparing Excel files according to specific rules. It supports both value-based and formula-based grading criteria.
 
 ### Features
 
