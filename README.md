@@ -19,7 +19,7 @@ This application provides an API endpoint for processing and comparing Excel fil
 
 ## Technical Stack
 
-- **Backend Framework:** Spring Boot 3.x
+- **Backend Framework:** Spring Boot 3.4.5
 - **Language:** Java 21
 - **Build Tool:** Maven
 - **Database:** PostgreSQL
